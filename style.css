@@ -1,0 +1,247 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+ body {
+  background-color: #fffef2; 
+ }
+ 
+ /* STYLE TEXT */
+ /* Beginning of the Home Page */
+ h1 {
+   display: block;
+   color: #485b34;
+   text-align: center;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   Margin-left: 10%;
+   margin-right: 10%;
+   font-size: 60px;
+ }
+ 
+ #hph2 {
+   text-align: center;
+   font-size: 40px;
+   padding: 40px;
+   color: #364328;
+   background-color:#98BB75;
+   margin-top: 20px;
+   margin-left: 10%;
+   margin-right: 10%;
+ }
+ 
+ p1 {
+   display: block;
+   text-align: center;
+   font-size: 30px;
+   font-style: italics;
+   height: 50vh;
+   margin: 15px 5% 1px 5%;
+   padding: 2%;
+   padding-bottom: 0px;
+   background-color:#98BB75;
+   border-style: dashed;
+   border-color: whitesmoke;
+ }
+ #facts {
+   font-size: 35px;
+   color: #364328;
+   padding: 5%;
+   background-color:#98BB75;
+   text-align: center;
+   margin: 5% 10%;
+ }
+ 
+   
+ /* End of the Home Page  */
+ 
+ 
+ /* Beginning of the Problem Page  */
+ 
+ #pph1 {
+   padding: 20px;
+ /*   background-color: #98BB75; */
+ }
+ 
+ #ghg {
+   display: block;
+   padding: 30px;
+   background-color: #98BB75;
+   border-style: dashed;
+   border-color: whitesmoke;
+   text-align: center;
+   font-size: 20px;
+   margin-left: 10%;
+   margin-right: 10%;
+   
+ }
+ 
+ #minit {
+   font-size: 25px;
+   color: #364328;
+ }
+ 
+ .pplte {
+    display: block;
+   text-align: left;
+   font-size: 20px;
+   margin-left:10%;
+   margin-right: 10%;
+   margin-top:5%;
+   padding: 20px;
+   border-style: dashed;
+   border-color: whitesmoke;
+   background-color:#98BB75;
+ }
+ #mini {
+   font-size: 25px;
+   color: #364328;
+ }
+ .ppste {
+   display: block;
+   text-align: left;
+   font-size: 20px;
+   margin-left:10%;
+   margin-right: 10%;
+   margin-top:5%;
+   padding: 20px;
+   border-style: dashed;
+   border-color: whitesmoke;
+   background-color:#98BB75;
+ }
+ /* End of the Problem Page  */
+ 
+ /* Beginning of Solutions Page */
+ #lts { 
+   text-align: center;
+   color: #364328;
+   font-size: 40px;
+   padding: 20px;
+   background-color: #98BB75;
+   margin-top: 5%;
+   margin-left: 10%;
+   margin-right: 10%;
+     
+   
+ }
+ #LTS {
+   display: block;
+   font-size: 23px;
+   padding: 5% 10%;
+   text-align: cneter;
+   
+ }
+ #feo { 
+   font-size: 25px;
+   text-align:left;
+   color: #364328;
+   
+ }
+ 
+ .sp {
+   display: block;
+   text-align: left;
+   font-size: 20px;
+   margin:5% 10%;
+   padding: 20px;
+   border-style: dashed;
+   border-color: whitesmoke;
+   background-color:#98BB75;
+ }
+ 
+ #fbs {
+   font-size: 25px;
+   text-align:left;
+   color: #364328;
+   
+ }
+ 
+ .sp2{
+     display: block;
+   text-align: left;
+   font-size: 20px;
+   margin-left:10%;
+   margin-right: 10%;
+   padding: 20px;
+   border-style: dashed;
+   border-color: whitesmoke;
+   background-color:#98BB75;
+   
+ }
+ /* End of Solutions Page */
+ 
+ 
+ /* STYLE IMAGES */
+ /* This img tag is for all the images on this website */
+ img { 
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 100%;
+   max-height: 500px;
+   border-radius: 5%;
+   margin-top:1em;
+ 
+ }
+ 
+ 
+ 
+ 
+ /* STYLE NAV BAR */
+ ul {
+   list-style-type: none;
+   background-color: #98BB75;
+   overflow: hidden;
+   padding: 1em;
+ }
+ li {
+   display: inline;
+ }
+ 
+ li a {
+   text-decoration: none; 
+   color: white; 
+   font-size: 1.3em;
+   padding: 1em;
+ }
+ 
+ li a:hover {
+   background-color:#B8CCAA;
+ }
+ 
+ 
+ 
+ /* STYLE BUTTONS */
+ #myBtn{
+   display: block;
+   margin: 0 auto;
+   padding: 10px;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   background-color:#B8CCAA ;
+   font-size: 24px;
+   border-radius: 4px;
+ }
+ 
+ #quote{
+   text-align: center;
+   font-size: 40px;
+   color: #364328;
+ }
+ .fact {
+   padding: 10%;
+   background-color: #B8CCAA;
+   margin-left: 10%;
+   margin-right: 10%;
+ }
+ 
+ /* ADD MORE! */
+ /* This is the Ted Talk YouTube video on the home page  */
+ iframe {
+   margin-left: 30%;
+   margin-right: 30%;
+   margin-top: 35px;
+   
+ }
